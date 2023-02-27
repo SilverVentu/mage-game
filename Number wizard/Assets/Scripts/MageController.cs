@@ -10,17 +10,6 @@ public class MageController : MonoBehaviour
     public GameLogic gameLogic;
     public AsteroidController asteroidController;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        //gl = gameObject.GetComponent<GameLogic>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void EndRage()
     {
